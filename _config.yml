@@ -2,12 +2,13 @@ name: 'GAIATAN SOLUTIONS  '
 favicon: null
 layout_spectrum: 0.9108516029082239
 typography_spectrum: 0.9494266530964524
+title: 'the highest quality, science-driven products and services for #OrganicLiving, #Permaculture, #MindTraining, #OnlineBusiness'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: GA-gaiatan-solutions-organics
   facebook: null
   twitter: null
 opengraph:
