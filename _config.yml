@@ -1,20 +1,4 @@
-name: 'GAIATAN SOLUTIONS  '
-favicon: null
-layout_spectrum: 0.50241
 typography_spectrum: 0.74835
-title: 'OrganicLiving | Permaculture Design | MindTraining | OnlineBusiness| Insvestments'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: GA-gaiatan-solutions- eco
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#292929'
@@ -26,4 +10,25 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50241
+analytics:
+  google: GA-gaiatan-solutions- eco
+  facebook: null
+  twitter: null
+name: 'GAIATAN SOLUTIONS  '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: >-
+  OrganicLiving | Permaculture Design | MindTraining | OnlineBusiness|
+  Insvestments
+description: >-
+  "The place to be to connect with all good things and people to nourish your
+  body and soul"
 purpose: []
